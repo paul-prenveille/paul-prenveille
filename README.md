@@ -66,7 +66,7 @@ MKCentral is the world's largest independent community for Mario Kart players. T
 ### 📐 Distance Geometry Game
 > *Université de Rennes | Apr 2023 – Jun 2023*
 
-Distance Geometry Game is a simple game designed for users to make different geometric forms. Using stiks with colored edges, using are guided to make the correct forms.
+Distance Geometry Game is a simple game where the players have to make different geometric forms. Using stiks with colored edges, players are guided to make the correct forms.
 
 `Java` `JUnit` `Git` `JavaFX`
 
